@@ -82,5 +82,26 @@
     "archivo": "videos/scaloni.mp4",
     "x": 55.37,
     "y": 40.48
+  },
+  {
+    "id": "13",
+    "titulo": "Belgrano Media",
+    "archivo": "videos/belgrano-media.mp4",
+    "x": 40,
+    "y": 92
+  },
+  {
+    "id": "14",
+    "titulo": "Davo",
+    "archivo": "videos/davo.mp4",
+    "x": 50,
+    "y": 92
+  },
+  {
+    "id": "15",
+    "titulo": "Telefe",
+    "archivo": "videos/telefe.mp4",
+    "x": 60,
+    "y": 92
   }
 ]
