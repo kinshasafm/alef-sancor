@@ -1,0 +1,13 @@
+# Videos originales sin procesar
+_originales/
+
+# Modo edición: solo local, no se publica
+editor/
+
+# Configuración local
+.claude/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01",
+    "titulo": "Afuera 1",
+    "archivo": "videos/afuera-1.mp4",
+    "x": 79.54,
+    "y": 4.24
+  },
+  {
+    "id": "02",
+    "titulo": "Afuera 2",
+    "archivo": "videos/afuera-2.mp4",
+    "x": 99.06,
+    "y": 38.3
+  },
+  {
+    "id": "03",
+    "titulo": "Belgrano Alta 2",
+    "archivo": "videos/belgrano-alta-2.mp4",
+    "x": 82.08,
+    "y": 50.82
+  },
+  {
+    "id": "04",
+    "titulo": "Belgrano Alta Maslaton",
+    "archivo": "videos/belgrano-alta-maslaton.mp4",
+    "x": 81.5,
+    "y": 36.24
+  },
+  {
+    "id": "05",
+    "titulo": "Brown Alta",
+    "archivo": "videos/brown-alta.mp4",
+    "x": 66.11,
+    "y": 69.53
+  },
+  {
+    "id": "06",
+    "titulo": "Brown Baja",
+    "archivo": "videos/brown-baja.mp4",
+    "x": 71.77,
+    "y": 54.95
+  },
+  {
+    "id": "07",
+    "titulo": "Brown Media",
+    "archivo": "videos/brown-media.mp4",
+    "x": 53.7,
+    "y": 63.66
+  },
+  {
+    "id": "08",
+    "titulo": "Centenario Alta",
+    "archivo": "videos/centenario-alta.mp4",
+    "x": 48.4,
+    "y": 10.66
+  },
+  {
+    "id": "09",
+    "titulo": "Centenario Baja",
+    "archivo": "videos/centenario-baja.mp4",
+    "x": 34.76,
+    "y": 27.2
+  },
+  {
+    "id": "10",
+    "titulo": "San Martín Alta 2",
+    "archivo": "videos/san-martin-alta-2.mp4",
+    "x": 25.18,
+    "y": 16.32
+  },
+  {
+    "id": "11",
+    "titulo": "San Martín Alta Brown",
+    "archivo": "videos/san-martin-alta-brown.mp4",
+    "x": 37.73,
+    "y": 64.53
+  },
+  {
+    "id": "12",
+    "titulo": "Scaloni",
+    "archivo": "videos/scaloni.mp4",
+    "x": 55.37,
+    "y": 40.48
+  }
+]
