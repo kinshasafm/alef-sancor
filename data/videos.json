@@ -87,21 +87,21 @@
     "id": "13",
     "titulo": "Belgrano Media",
     "archivo": "videos/belgrano-media.mp4",
-    "x": 40,
-    "y": 92
+    "x": 73.3,
+    "y": 36.78
   },
   {
     "id": "14",
     "titulo": "Davo",
     "archivo": "videos/davo.mp4",
-    "x": 50,
-    "y": 92
+    "x": 92.24,
+    "y": 12.51
   },
   {
     "id": "15",
     "titulo": "Telefe",
     "archivo": "videos/telefe.mp4",
-    "x": 60,
-    "y": 92
+    "x": 46.15,
+    "y": 42.11
   }
 ]
